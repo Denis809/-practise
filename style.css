@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #0C91AE;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.sub{
+    margin-top: 15px;
+   
+}
+.sub:hover{
+    height: 30px;
+    background-color: white;
+    color:  #0C91AE;
+    border-radius: 5px;  
+}
+.sub2{
+    margin-top: 15px;
+   
+}
+.sub2:hover{
+    height: 30px;
+    background-color: white;
+    color:  #0C91AE;
+    border-radius: 5px; 
+}
+.sub3{
+    margin-top: 15px;
+   
+}
+
+.sub3:hover{
+    height: 30px;
+    background-color: white;
+    color:  #0C91AE;
+    border-radius: 5px; 
+}
+.sub4{
+    margin-top: 15px;
+   
+}
+.sub4:hover{
+    height: 30px;
+    background-color: white;
+    color:  #0C91AE;
+    border-radius: 5px; 
+}
+.sub5{
+    margin-top: 15px;
+   
+}
+.sub5:hover{
+    height: 30px;
+    background-color: white;
+    color:  #0C91AE;
+    border-radius: 5px; 
+}
+.triangle{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+    border-top: 30px solid  #0C91AE;
+    position: absolute;
+    left: 49%;
+}
+
+.content{
+    text-align: center;
+    margin-top: 60px;
+}
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border: 2px solid #B3B8B9;
+    border-radius: 80px;
+    margin-top: 50px;
+
+}
+.text_img{
+    width: 105%;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer{
+    height: 200px;
+    background-color: #0C91AE;
+    margin-top: 333px;
+}
+.triangle2{
+    width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+    border-top: 30px solid  white;
+    position: absolute;
+    left: 49%;
+}
+.heard p{
+    margin-left: 15px;
+    color: white;
+    font-size: 55px;
+    position: absolute;
+    top: 700px;
+    left: 14%;
+
+}
+.p p{
+    top: 119%;
+}
+.b p{
+    margin-top: 130px;
+    font-size: 18px;
+    
+}
+.text p{
+    margin-top: 152px;
+}
+.img_svg{
+    position: absolute;
+    top: 115%;
+    left: 53%;
+    display: flex;
+}
+.img_svg p{
+    
+    color: white;
+    font-size: 55px;
+    
+}
+.text2 p{
+    margin-top: 130px;
+    font-size: 18px;
+}
+.img__text p{
+ position: absolute;
+ top: 40px;
+}
+.text2 p{
+    margin-top: 50px;
+    font-size: 18px;
+}
