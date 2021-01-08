@@ -14,54 +14,17 @@
 }
 .sub{
     margin-top: 15px;
+    padding: 7px;
+    text-align: center;
    
 }
 .sub:hover{
-    height: 30px;
+    height: 23px;
     background-color: white;
     color:  #0C91AE;
-    border-radius: 5px;  
-}
-.sub2{
-    margin-top: 15px;
-   
-}
-.sub2:hover{
-    height: 30px;
-    background-color: white;
-    color:  #0C91AE;
-    border-radius: 5px; 
-}
-.sub3{
-    margin-top: 15px;
-   
-}
-
-.sub3:hover{
-    height: 30px;
-    background-color: white;
-    color:  #0C91AE;
-    border-radius: 5px; 
-}
-.sub4{
-    margin-top: 15px;
-   
-}
-.sub4:hover{
-    height: 30px;
-    background-color: white;
-    color:  #0C91AE;
-    border-radius: 5px; 
-}
-.sub5{
-    margin-top: 15px;
-   
-}
-.sub5:hover{
-    height: 30px;
-    background-color: white;
-    color:  #0C91AE;
-    border-radius: 5px; 
+    border-radius: 5px;
+    transition: .2s;
+    
 }
 .triangle{
     width: 0;
@@ -130,8 +93,8 @@
 }
 .img_svg{
     position: absolute;
-    top: 115%;
-    left: 53%;
+    top: 705px;
+    left: 700px;
     display: flex;
 }
 .img_svg p{
