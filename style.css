@@ -41,6 +41,7 @@
     margin-top: 60px;
 }
 .cont{
+    height: 500px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -60,7 +61,8 @@
 .footer{
     height: 200px;
     background-color: #0C91AE;
-    margin-top: 333px;
+    display: flex;
+    
 }
 .triangle2{
     width: 0;
@@ -71,47 +73,40 @@
     position: absolute;
     left: 49%;
 }
-.heard p{
-    margin-left: 15px;
+.left{
+   width: 48%;
+}
+.text{
+     float: right; 
     color: white;
-    font-size: 55px;
-    position: absolute;
-    top: 700px;
-    left: 14%;
-
-}
-.p p{
-    top: 119%;
-}
-.b p{
-    margin-top: 130px;
-    font-size: 18px;
+    font-size: 36px;
     
 }
-.text p{
-    margin-top: 152px;
+.text_p{
+     float: right; 
+    font-size: 14px;
+     margin-top: 16px; 
 }
-.img_svg{
-    position: absolute;
-    top: 705px;
-    left: 700px;
-    display: flex;
-}
-.img_svg p{
+.right{
+    width: 35%;
+    float: left;
+    margin-left: 35px;
     
+}
+.text2{
+    float: right;
     color: white;
-    font-size: 55px;
-    
+     font-size: 36px; 
+}
+.text2_p{
+    float: right;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    left: 895px;
+    top: 780px;
 }
 .text2 p{
-    margin-top: 130px;
-    font-size: 18px;
-}
-.img__text p{
- position: absolute;
- top: 40px;
-}
-.text2 p{
-    margin-top: 50px;
-    font-size: 18px;
+    font-size: 36px;
+    
 }
